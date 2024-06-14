@@ -2,4 +2,4 @@
 
 Sistema de educaçao WebRTC
 
-Para ensino remoto em Pyhhon Django, Node e React
+Para ensino remoto em Python Django, Node e React
